@@ -1,6 +1,8 @@
 # Incomplete-and-Partially-ordered-Plan-Recognition-for-Sensemaking-of-Information-Storygames
 Submitted to the 2025 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment. Details a method by which agents or people's observations can be simulated, based on known states of the world or observed actions.
 
+The data is over 1GB in size, [so please look to the Open Science Framework side of this project for the base data](https://osf.io/s3rwz/).
+
 ## Evaluation Codebase
 
 This program is meant to compare pr2plan (Ramirez and Geffner, 2009) against pr2plan_complex. It requires several executables be moved to the top level directory. Each of these executables relies on an FF parser, for which bison and flex are required. See the [FD website](https://www.fast-downward.org/latest/documentation/) for more info. You may be able to use [brew](https://brew.sh) for an easy install. (`brew install bison`)
@@ -35,3 +37,7 @@ python harness.py --settings simple
 ```
 python analyze.py
 ```
+
+## Citation
+
+To be updated once AIIDE has the citation ready for use.
