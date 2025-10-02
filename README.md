@@ -39,5 +39,13 @@ python analyze.py
 ```
 
 ## Citation
+BibTex Citation:
+```
+@inproceedings{nelson2025incomplete,
+  title = {Accounting for Incomplete and Partially-ordered Observations within Classical Model-based Plan Recognition for Sensemaking of Information Storygames},
+  author = {Nelson, Jennifer M. and Gardone, Mica and Sauma-Chac\'{o}n, Pablo and Cardona-Rivera, Rogelio E.},
+  booktitle = {Proceedings of the 21st AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment} \emph{(in press)},
+  year = {2025}
+}
+```
 
-To be updated once AIIDE has the citation ready for use.
